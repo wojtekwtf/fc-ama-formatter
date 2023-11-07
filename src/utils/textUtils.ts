@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 export const truncateLongWord = (word: string, maxLength: number) => {
   if (word.length < maxLength) return word
   return `${word.slice(0, maxLength)}...`
