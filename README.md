@@ -1,1 +1,1 @@
-[Fork it and get the bounty](https://warpcast.com/dwr.eth/0xa04f0f2c)
+fork it and ship your first farcaster project
